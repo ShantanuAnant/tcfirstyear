@@ -1,0 +1,112 @@
+body {
+    background-color: rgb(38, 30, 43);
+    width: 1400px;
+    height: 2188px;
+    overflow-x: hidden;
+    font-family: "Poppins";
+    font-size: 22px;
+  }
+  .nav {
+    background-color: black;
+    height: 105px;
+    width: 1900px;
+    position: relative;
+    bottom: 5px;
+    right: 10px;
+    color: white;
+  }
+  .logo {
+    position: relative;
+    top: 13px;
+    left: 113px;
+  }
+  .home {
+    color: white;
+    position: relative;
+    left: 1316px;
+    size: 20px;
+    bottom: 50px;
+  }
+  .events {
+    color: white;
+    position: relative;
+    left: 1416px;
+    size: 20px;
+    bottom: 82px;
+  }
+  .domain {
+    color: white;
+    position: relative;
+    left: 1516px;
+    size: 20px;
+    bottom: 75px;
+  }
+  .Achivenment {
+    color: white;
+    position: relative;
+    left: 1656px;
+    size: 20px;
+    bottom: 107px;
+  }
+  .ach {
+    color: white;
+    font-size: 80px;
+    margin-top: 100px;
+    margin-left: 725px;
+  }
+  .stars {
+    height: 40px;
+    width: 40px;
+    position: relative;
+    bottom: 40px;
+  }
+  .boxes {
+    position: relative;
+    left: 225px;
+    top: 100px;
+  }
+  .box1 {
+    display: inline-block;
+    height: 450px;
+    width: 400px;
+    background-color: white;
+    border-radius: 30px;
+  }
+  .box2 {
+    display: inline-block;
+    height: 450px;
+    width: 400px;
+    background-color: white;
+    border-radius: 30px;
+    position: relative;
+    left: 100px;
+  }
+  .box3 {
+    display: inline-block;
+    height: 450px;
+    width: 400px;
+    background-color: white;
+    border-radius: 30px;
+    position: relative;
+    left: 200px;
+  }
+  .boxes1 {
+    position: relative;
+    left: 225px;
+    top: 220px;
+  }
+  .boxes2 {
+    position: relative;
+    left: 225px;
+    top: 350px;
+  }
+  .winner {
+    position: relative;
+    left: 17px;
+    top: 15px;
+  }
+  h1 {
+    text-align: center;
+    font-size: 25px;
+  }
+  
