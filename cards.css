@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    background: #120517;
+    width: 100vw;
+    height: 100vh;
+    
+}
+.container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+
+}
+ .box{
+    margin-top: 15rem ;
+    display: flex; 
+    
+    margin-bottom: 5rem;
+    justify-content: center;
+    color: white;
+    
+}
+.box fieldset{
+    display: flex;
+    flex-wrap: wrap;
+    height: 40rem;
+    width: 90rem;
+    text-align: center;
+    border: 3px solid white;
+    border-radius: 0.9rem;
+    padding-top: 3rem;
+    padding-left: 2rem;
+    width: 100vw;
+    margin-bottom: 1rem;
+    margin-right: 1rem;
+    margin-left: 1rem;
+   
+}
+.box legend{
+    font-weight: bold;
+    padding: 0.7rem;
+    font-size:  25px; 
+}
+.card{
+    position: relative;
+    width: 11.5rem;
+    height: 14rem;
+    background: #fff;
+    border: 2.3px solid black;
+    margin-left: 1.4rem ;
+    margin-right: 1.4rem;
+    margin-bottom: 0;
+    margin-top: 0;
+    box-shadow:  1.5px 1.5px 5px  #fff ;
+} 
+.content{
+    justify-content: center;
+
+}
+.content img{
+    margin: 0.5rem;
+    height: 11.5rem;
+    width: 10rem;
+}
+.cardbody  {
+    justify-content: center;
+    /* border: 2px solid green; */
+    color: black;
+    background: rgb(243, 74, 7);
+    width: 8rem;
+    padding: 3px;
+    
+    position: absolute;
+    margin-left: 10px;
+    bottom: 15px;
+    left: 0;
+    right: 0;
+    margin-inline: auto;
+
+}
+
